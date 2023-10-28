@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OMhpX1ZgCTcNKNWvjoiqz7CoYu6Qj1fAbuJOWfmYCSY=",
+  "Source": "SimpleWebAppBackend",
+  "BasePath": "_content/SimpleWebAppBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
